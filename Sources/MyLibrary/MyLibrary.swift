@@ -7,8 +7,8 @@ public struct MyLibrary {
     }
 }
 
-public struct SwiftUIView: View {
-    public var body: some View {
+ struct SwiftUIView: View {
+    var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
